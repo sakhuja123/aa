@@ -1,2 +1,4 @@
 line 1
 line 2 from d1
+line 3 by d2
+line 4 from d1 after merge
